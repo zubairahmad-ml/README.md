@@ -54,7 +54,7 @@ line break mena ka ya iik line ma na ai ya diffrents lines ma ai
 > \ iss ko bi line break ka lia use karta ha text ka last ma likhta ha iss ko only slash ki baat ha ya
 
 
-# 7_combne 2 things block of words and headings
+#  7_combne 2 things block of words and headings
 > ## heandig2
 # 8_face of the text
 **BOLD**
