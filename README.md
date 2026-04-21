@@ -119,3 +119,53 @@ print("Zubair Ahmad")
 ---
 
 # 18_install_extensions
+markdown all in one
+markdown pdf
+markdown lint
+markdown shortcut
+
+---
+
+# 19_link
+
+[YouTube Link](https://www.youtube.com/watch?v=qJqAXjz-Rh4)
+
+---
+
+# 20_image
+
+![image](map.jpg)
+
+---
+
+# 21_strikethrough
+
+~~image~~
+
+---
+
+# 22_code_block
+sdfghjkl
+dfghjkl
+dfghjkl
+lkjhgfd
+lkjhgf
+
+---
+
+# 23_table_example
+
+| Column A | Column B | Column C |
+|----------|----------|----------|
+| A1       | B1       | C1       |
+| A2       | B2       | C2       |
+| A3       | B3       | C3       |
+
+---
+
+# 24_make_pdf
+
+- Install extension: VS Code PDF  
+- Right click → Export as PDF / JPG  
+
+> Note: Some Markdown files export better than others depending on formatting.
