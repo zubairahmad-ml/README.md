@@ -77,6 +77,8 @@ Ek line: `print("Hello")`
 Poora block:
 ```python
 print("Zubair Ahmad")
+print("Zubair Ahmad")
+
 # 16_adding tables
 
 | species | petal | sepal |
@@ -84,11 +86,11 @@ print("Zubair Ahmad")
 | aa     | 22    | 33    |
 | bb     | 44    | 44    |
 
-> Alignment example:
->
-> | Left Align | Center Align | Right Align |
-> |:-----------|:------------:|------------:|
-> | Text       | Text         | Text        |
+### Alignment example
+
+| Left Align | Center Align | Right Align |
+|:-----------|:------------:|------------:|
+| Text       | Text         | Text        |
 
 ---
 
@@ -96,20 +98,9 @@ print("Zubair Ahmad")
 
 [Headings](#9_bullets-poitns)
 
-> Type `#` and GitHub will suggest headings automatically.
+---
 
-[1_headings](#1_-why-use-mark-down-language)  
-[2_preview_sheet](#2_preview-the-cheat-sheet-and-the-mark-down)  
-[3_difference_word_markdown](#3_diffrence-between-the-mark-down-and-the-word-file)  
-[4_write_headings](#4_-write-the-headings)  
-[5_block_of_words](#5_-write-the-block-of-words)  
-[6_line_break](#6_-line-breaks)  
-[7_combine](#7_combne-2-things-block-of-words-and-headings)  
-[8_text_format](#8_face-of-the-text)  
-[9_bullets](#9_bullets-poitns)  
-[10_line_break](#10_line-break-or-page-break)  
-[11_links](#11_links-and-make-hyper-link)  
-[12_images](#12_imgaes-and-the-figures-in-markdown)  
+# 18_install_extensions 
 [13_comments](#13_how-to-comment-out-the-text-in-the-file)  
 [14_url](#14_-how-to-copy-the-url-of-the-websote-and-use-as-link)  
 [15_code](#15_how-to-add-the-code-and-the-code-block)  
